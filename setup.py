@@ -10,7 +10,7 @@ setup(
     description="Uma biblioteca turtle traduzida para o português.",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/seu_usuario/tartaruga",
+    url="https://github.com/viniHNS/Tartaruga_Python",
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
